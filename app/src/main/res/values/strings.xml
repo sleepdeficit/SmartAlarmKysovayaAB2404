@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Умный Будильник</string>
+    <string name="notification_listener_name">Служба анализа уведомлений</string>
+    <string name="alarm_notification_channel_name">Будильники</string>
+    <string name="alarm_notification_channel_desc">Канал уведомлений для срабатывания будильника на заблокированном экране</string>
+    <string name="alarm_ringing">Будильник звонит!</string>
+    <string name="alarm_dismiss">Выключить</string>
+    <string name="alarm_snooze">Отложить на 10 мин</string>
+    <string name="alarm_wake_up">Пора просыпаться!</string>
+</resources>
